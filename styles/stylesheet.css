@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.section1, .section2, .section3 {
+  float: left;
+}
+
+.section4 {
+  clear: both;
+}
+
+.section4, .section5, .section6 {
+  float: left;
+}
+
+.section7 {
+  clear: both;
+}
+
+.section7, .section8, .section9 {
+  float: left;
+}
+
+.section10 {
+  clear: both;
+}
+
+
+img {
+  width: 8em;
+  height: 10em;
+  background-color: darkviolet;
+  display: block;
+}
+
+.bg-black {
+  background-color:black;
+}
+
+.bg-blue {
+  background-color:blue;
+}
+
+.bg-grey {
+  background-color:grey;
+}
+
+.bg-red {
+  background-color:red;
+}
+
+.swatches li {
+  border-radius:50%;
+  height:1.35rem;
+  width:1.35rem;
+  float:left;
+  margin:.2em;
+}
+
+h6 {
+  clear: both;
+  padding: 0em 1.8em;
+  font-size:.9em;
+}
+
+p {
+  padding: 0em 1em;
+  width: 1.2em;
+  margin: 0em .5em;
+}
+
+p2 {
+  padding: 1em 1em;
+  width: 2em;
+  margin: 1em 0em;
+}
+
+.pricetext {
+  color: red;
+  padding: 0em 1em;
+}
+
+.strikethrough {
+  text-decoration:line-through;
+  color: black;
+}
+
+i {
+  color: gold;
+  padding: .5em 0em;
+}
+
+button {
+  clear: both;
+  margin: 2em 1em;
+  line-height: 14px;
+  border-width: .1rem;
+  border-style: solid;
+  border-radius: .2rem;
+  outline: 0;
+}
